@@ -1,0 +1,1808 @@
+﻿Log file open, 12/18/17 12:40:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: IS2171
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-76680955) SRandInit(-76680955).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.146130
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.18-17.40.47:029][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.18-17.40.47:029][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.18-17.40.48:286][  0]LogInit: Computer: DESKTOP-DAQK5RN
+[2017.12.18-17.40.48:286][  0]LogInit: User: Luke
+[2017.12.18-17.40.48:286][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.18-17.40.48:286][  0]LogInit: High frequency timer resolution =4.101564 MHz
+[2017.12.18-17.40.48:286][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.18-17.40.48:286][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.18-17.40.48:286][  0]LogMemory: Process Physical Memory: 274.18 MB used, 274.18 MB peak
+[2017.12.18-17.40.48:286][  0]LogMemory: Process Virtual Memory: 269.72 MB used, 269.72 MB peak
+[2017.12.18-17.40.48:286][  0]LogMemory: Physical Memory: 4967.37 MB used,  11341.51 MB free, 16308.88 MB total
+[2017.12.18-17.40.48:286][  0]LogMemory: Virtual Memory: 677.91 MB used,  11341.51 MB free, 134217728.00 MB total
+[2017.12.18-17.40.48:377][  0]LogInit: Using OS detected language (en-US).
+[2017.12.18-17.40.48:377][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.18-17.40.48:378][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.18-17.40.48:662][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.18-17.40.48:866][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.18-17.40.48:896][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.12.18-17.40.48:896][  0]LogD3D11RHI:       8086/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.18-17.40.48:897][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.18-17.40.48:897][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.18-17.40.48:897][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.18-17.40.48:902][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.18-17.40.48:902][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.18-17.40.48:902][  0]LogWindows: EnumDisplayDevices:
+[2017.12.18-17.40.48:902][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.12.18-17.40.48:902][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.18-17.40.48:902][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.18-17.40.48:902][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.12.18-17.40.48:902][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.18-17.40.48:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.12.18-17.40.48:902][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.18-17.40.48:902][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.18-17.40.48:902][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2017.12.18-17.40.48:916][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.18-17.40.48:925][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.18-17.40.48:973][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (E:/Unreal Projects/IS2171 4.18/Intermediate/Shaders/WorkingDirectory/8148/).
+[2017.12.18-17.40.48:973][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luke/AppData/Local/Temp/UnrealShaderWorkingDir/098F37234539E575ABDE8D99474693FA/'.
+[2017.12.18-17.40.48:973][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.18-17.40.49:570][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.18-17.40.49:602][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.18-17.40.49:634][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.18-17.40.49:667][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.18-17.40.49:706][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.18-17.40.49:746][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.18-17.40.49:781][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.18-17.40.49:819][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.18-17.40.49:856][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.18-17.40.49:891][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.18-17.40.49:923][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.18-17.40.49:960][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.18-17.40.50:004][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.18-17.40.50:039][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.18-17.40.50:109][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.18-17.40.50:109][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.18-17.40.50:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.18-17.40.50:176][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.18-17.40.50:245][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.18-17.40.50:265][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.18-17.40.50:302][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.18-17.40.50:334][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.18-17.40.50:366][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.18-17.40.50:399][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.18-17.40.50:399][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.18-17.40.50:710][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.18-17.40.50:752][  0]LogDerivedDataCache: Loaded boot cache 0.04s 69MB C:/Users/Luke/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.18-17.40.50:753][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luke/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.18-17.40.50:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal Projects/IS2171 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.18-17.40.50:753][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.18-17.40.50:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal Projects/IS2171 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.18-17.40.50:753][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.18-17.40.50:766][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.18-17.40.50:778][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.18-17.40.50:786][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.18-17.40.50:786][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.18-17.40.50:786][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.18-17.40.50:786][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.18-17.40.51:034][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.18-17.40.51:248][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.18-17.40.51:274][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.18-17.40.51:274][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.18-17.40.51:274][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.18-17.40.51:274][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.18-17.40.51:274][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.18-17.40.51:289][  0]LogNetVersion: IS2171 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1055475761)
+[2017.12.18-17.40.51:400][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2017.12.18-17.40.52:921][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.240156 seconds
+[2017.12.18-17.40.52:925][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.18-17.40.52:925][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.18-17.40.52:925][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.18-17.40.52:961][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.18-17.40.54:765][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.18-17.40.54:803][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.18-17.40.55:251][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.18-17.40.55:526][  0]SourceControl: Source control is disabled
+[2017.12.18-17.40.55:526][  0]SourceControl: Source control is disabled
+[2017.12.18-17.40.55:562][  0]SourceControl: Source control is disabled
+[2017.12.18-17.40.55:594][  0]SourceControl: Source control is disabled
+[2017.12.18-17.40.56:105][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.18-17.40.56:273][  0]LogOcInput: OculusInput pre-init called
+[2017.12.18-17.40.56:463][  0]LogEngine: Initializing Engine...
+[2017.12.18-17.40.56:465][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.18-17.40.56:607][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.18-17.40.56:607][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.18-17.40.56:691][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.18-17.40.56:696][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.18-17.40.56:706][  0]LogInit: FAudioDevice initialized.
+[2017.12.18-17.40.56:802][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Luke/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.18-17.40.56:811][  0]LogInit: Texture streaming: Enabled
+[2017.12.18-17.40.57:113][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.18-17.40.57:210][  0]LogInit: Transaction tracking system initialized
+[2017.12.18-17.40.57:410][  0]BlueprintLog: New page: Editor Load
+[2017.12.18-17.40.57:975][  0]LocalizationService: Localization service is disabled
+[2017.12.18-17.40.58:451][  0]LogConsoleResponse: Display: 
+[2017.12.18-17.40.58:561][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.18-17.40.58:561][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.18-17.40.58:561][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.18-17.40.59:295][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/IS2171 4.18/Content/' took 0.01s
+[2017.12.18-17.40.59:295][  0]SourceControl: Source control is disabled
+[2017.12.18-17.40.59:295][  0]Cmd: MAP LOAD FILE="E:/Unreal Projects/IS2171 4.18/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.18-17.40.59:295][  0]LightingResults: New page: Lighting Build
+[2017.12.18-17.40.59:321][  0]MapCheck: New page: Map Check
+[2017.12.18-17.40.59:321][  0]LightingResults: New page: Lighting Build
+[2017.12.18-17.40.59:563][  0]LogTexture: Display: Building textures: TA_ScarlettTongue (AutoDXT, 128X128)
+[2017.12.18-17.40.59:563][  0]LogTexture: Display: Building textures: TA_ScarlettTeethU (AutoDXT, 512X128)
+[2017.12.18-17.40.59:563][  0]LogTexture: Display: Building textures: TA_ScarlettSock (AutoDXT, 128X128)
+[2017.12.18-17.40.59:563][  0]LogTexture: Display: Building textures: TA_ScarlettTeethD (AutoDXT, 512X128)
+[2017.12.18-17.40.59:563][  0]LogTexture: Display: Building textures: Skin_albedo (AutoDXT, 2048X2048)
+[2017.12.18-17.40.59:565][  0]LogMaterial: Missing cached shader map for material M_Tongue, compiling. 
+[2017.12.18-17.40.59:635][  0]LogMaterial: Missing cached shader map for material M_Teeth_U, compiling. 
+[2017.12.18-17.40.59:688][  0]LogTexture: Display: Building textures: Skin_normal (BC5, 2048X2048)
+[2017.12.18-17.40.59:688][  0]LogMaterial: Missing cached shader map for material M_Teeth_D, compiling. 
+[2017.12.18-17.40.59:748][  0]LogTexture: Display: Building textures: Metal_albedo (AutoDXT, 2048X2048)
+[2017.12.18-17.40.59:748][  0]LogTexture: Display: Building textures: TA_ScarlettSkin (AutoDXT, 512X512)
+[2017.12.18-17.40.59:748][  0]LogMaterial: Missing cached shader map for material M_Sock, compiling. 
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: Metal_normal (BC5, 2048X2048)
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: TA_HairBangs (AutoDXT, 2048X2048)
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: TA_ScarlettHairR (AutoDXT, 512X512)
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: Fur_normal (BC5, 2048X2048)
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: Fur_albedo (AutoDXT, 2048X2048)
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: TA_ScarlettEyeR (AutoDXT, 512X512)
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: RGB (AutoDXT, 2048X2048)
+[2017.12.18-17.41.01:543][  0]LogTexture: Display: Building textures: lambert2_normal_base (BC5, 2048X2048)
+[2017.12.18-17.41.01:545][  0]LogMaterial: Missing cached shader map for material M_Skin, compiling. 
+[2017.12.18-17.41.05:536][  0]LogTexture: Display: Building textures: furTexture (AutoDXT, 1024X1024)
+[2017.12.18-17.41.05:536][  0]LogTexture: Display: Building textures: TA_ScarlettEyeL (AutoDXT, 512X512)
+[2017.12.18-17.41.05:536][  0]LogTexture: Display: Building textures: Bone_normal (BC5, 2048X2048)
+[2017.12.18-17.41.05:536][  0]LogTexture: Display: Building textures: Bone_albedo (AutoDXT, 2048X2048)
+[2017.12.18-17.41.05:538][  0]LogMaterial: Missing cached shader map for material M_Metal, compiling. 
+[2017.12.18-17.41.05:598][  0]LogMaterial: Missing cached shader map for material M_Head, compiling. 
+[2017.12.18-17.41.05:667][  0]LogMaterial: Missing cached shader map for material M_HairBack, compiling. 
+[2017.12.18-17.41.05:765][  0]LogMaterial: Missing cached shader map for material M_Hair, compiling. 
+[2017.12.18-17.41.05:847][  0]LogMaterial: Missing cached shader map for material M_Fur, compiling. 
+[2017.12.18-17.41.05:899][  0]LogMaterial: Missing cached shader map for material M_Eye_R, compiling. 
+[2017.12.18-17.41.05:954][  0]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2017.12.18-17.41.06:013][  0]LogMaterial: Missing cached shader map for material M_Fur, compiling. 
+[2017.12.18-17.41.06:072][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2017.12.18-17.41.06:161][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2017.12.18-17.41.06:194][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.12.18-17.41.06:260][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Lilith/Anims/Lilith_AttackV2.Lilith_AttackV2
+[2017.12.18-17.41.06:261][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Lilith/Anims/Lilith_AttackV2.Lilith_AttackV2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-17.41.06:265][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Lilith/Anims/Lilith_Idle.Lilith_Idle
+[2017.12.18-17.41.06:265][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Lilith/Anims/Lilith_Idle.Lilith_Idle) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-17.41.06:302][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Lilith/Anims/Lilith_RunCycle.Lilith_RunCycle
+[2017.12.18-17.41.06:302][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Lilith/Anims/Lilith_RunCycle.Lilith_RunCycle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-17.41.06:367][  0]LogMaterial: Missing cached shader map for material M_Eye_L, compiling. 
+[2017.12.18-17.41.06:427][  0]LogMaterial: Missing cached shader map for material M_Bone, compiling. 
+[2017.12.18-17.41.06:507][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Lilith/Anims/Lilith_AttackV1.Lilith_AttackV1
+[2017.12.18-17.41.06:508][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Lilith/Anims/Lilith_AttackV1.Lilith_AttackV1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-17.41.06:530][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.18-17.41.06:550][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.18-17.41.06:566][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.18-17.41.06:620][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.739ms to complete.
+[2017.12.18-17.41.06:621][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.326
+[2017.12.18-17.41.06:803][  0]LogCollectionManager: Loaded 0 collections in 0.001634 seconds
+[2017.12.18-17.41.06:911][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/IS2171 4.18/Saved/Collections/' took 0.01s
+[2017.12.18-17.41.06:911][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/IS2171 4.18/Content/Developers/Luke/Collections/' took 0.01s
+[2017.12.18-17.41.06:911][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/IS2171 4.18/Content/Collections/' took 0.01s
+[2017.12.18-17.41.06:911][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.18-17.41.06:923][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2363 classes and 519 folders.
+[2017.12.18-17.41.07:008][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.18-17.41.07:450][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.18-17.41.07:510][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.18-17.41.07:564][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.18-17.41.07:566][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.18-17.41.07:578][  0]LogSlate: Took 0.007489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.18-17.41.07:671][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2017.12.18-17.41.07:761][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.18-17.41.08:059][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.18-17.41.08:059][  0]LogLoad: (Engine Initialization) Total time: 24.02 seconds
+[2017.12.18-17.41.08:059][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.18-17.41.08:059][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.18-17.41.08:068][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.18-17.41.08:308][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.18-17.41.08:356][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-17.41.08:375][  1]LogAssetRegistry: Asset discovery search completed in 16.9973 seconds
+[2017.12.18-17.41.08:379][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.18-17.41.08:379][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2017.12.18-17.41.21:574][509]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.18-17.41.31:499][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2017.12.18-17.41.44:775][683]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (StagMan)
+[2017.12.18-17.41.46:129][813]Cmd: DELETE
+[2017.12.18-17.41.46:129][813]Cmd: ACTOR DELETE
+[2017.12.18-17.41.46:271][813]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.18-17.41.46:280][813]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2017.12.18-17.41.47:376][941]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GhostHorse)
+[2017.12.18-17.41.47:804][979]Cmd: DELETE
+[2017.12.18-17.41.47:804][979]Cmd: ACTOR DELETE
+[2017.12.18-17.41.47:806][979]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.18-17.41.47:815][979]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.12.18-17.41.49:078][125]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Fox)
+[2017.12.18-17.41.57:929][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.18-17.42.06:716][898]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.18-17.42.07:198][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.07:198][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.18-17.42.07:199][898]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 18, 2017, 7:42:07 AM)
+[2017.12.18-17.42.07:199][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.18-17.42.07:220][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020700s)
+[2017.12.18-17.42.07:221][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.18-17.42.07:221][898]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2017.12.18-17.42.07:221][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022193s)
+[2017.12.18-17.42.07:236][898]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.18-17.42.07:241][898]LogInit: FAudioDevice initialized.
+[2017.12.18-17.42.07:286][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.18-17.42.07:290][898]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.18-12.42.07
+[2017.12.18-17.42.07:291][898]LogWorld: Bringing up level for play took: 0.003617
+[2017.12.18-17.42.07:330][898]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2017.12.18-17.42.07:330][898]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.051
+[2017.12.18-17.42.07:331][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.30:008][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.30:037][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.34:350][122]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-17.42.34:557][122]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2017.12.18-17.42.34:970][122]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.12.18-17.42.34:984][122]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.18-17.42.34:996][122]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.12.18-17.42.35:081][122]LogSlate: Took 0.003788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.18-17.42.35:434][123]LogSlate: Took 0.005462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.18-17.42.44:350][889]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-17.42.52:136][638]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.18-17.42.52:191][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.52:191][638]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.18-17.42.52:295][638]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.12.18-17.42.52:632][638]LogPlayLevel: PlayLevel: Blueprint regeneration took 441 ms (1 blueprints)
+[2017.12.18-17.42.52:633][638]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 18, 2017, 7:42:52 AM)
+[2017.12.18-17.42.52:633][638]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.18-17.42.52:644][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011614s)
+[2017.12.18-17.42.52:645][638]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.18-17.42.52:645][638]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2017.12.18-17.42.52:646][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012920s)
+[2017.12.18-17.42.52:660][638]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.18-17.42.52:665][638]LogInit: FAudioDevice initialized.
+[2017.12.18-17.42.52:697][638]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.18-17.42.52:699][638]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.18-12.42.52
+[2017.12.18-17.42.52:700][638]LogWorld: Bringing up level for play took: 0.002165
+[2017.12.18-17.42.52:700][638]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.421
+[2017.12.18-17.42.52:701][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.55:781][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.55:815][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.58:469][173]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.18-17.42.58:495][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.42.58:495][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.18-17.42.58:495][173]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 18, 2017, 7:42:58 AM)
+[2017.12.18-17.42.58:495][173]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.18-17.42.58:506][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010501s)
+[2017.12.18-17.42.58:506][173]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.18-17.42.58:507][173]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2017.12.18-17.42.58:507][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011453s)
+[2017.12.18-17.42.58:523][173]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.18-17.42.58:527][173]LogInit: FAudioDevice initialized.
+[2017.12.18-17.42.58:558][173]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.18-17.42.58:560][173]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.18-12.42.58
+[2017.12.18-17.42.58:560][173]LogWorld: Bringing up level for play took: 0.002125
+[2017.12.18-17.42.58:561][173]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.282
+[2017.12.18-17.42.58:561][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.43.13:275][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.43.13:317][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.49.05:554][157]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2017.12.18-17.49.05:584][157]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.18-17.49.05:783][157]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.12.18-17.49.05:807][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-17.49.06:090][157]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2017.12.18-17.49.48:512][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.50.30:164][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Lilith/Lilith_PhysicsAsset" FILE="E:/Unreal Projects/IS2171 4.18/Content/Models/Lilith/Lilith_PhysicsAsset.uasset" SILENT=true
+[2017.12.18-17.50.30:551][ 64]LogSavePackage: Save=14.78ms
+[2017.12.18-17.50.30:551][ 64]LogSavePackage: Moving 'E:/Unreal Projects/IS2171 4.18/Saved/Lilith_PhysicsAssetA4F2B6234D5F8BDF91EF9D9339396F95.tmp' to 'E:/Unreal Projects/IS2171 4.18/Content/Models/Lilith/Lilith_PhysicsAsset.uasset'
+[2017.12.18-17.50.30:663][ 64]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/IS2171 4.18/Content/Models/Lilith/Lilith_PhysicsAsset.uasset
+[2017.12.18-17.50.36:148][694]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.18-17.50.36:194][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.50.36:194][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.18-17.50.36:194][694]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 18, 2017, 7:50:36 AM)
+[2017.12.18-17.50.36:194][694]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.18-17.50.36:206][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011656s)
+[2017.12.18-17.50.36:206][694]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.18-17.50.36:206][694]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2017.12.18-17.50.36:206][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012595s)
+[2017.12.18-17.50.36:221][694]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.18-17.50.36:225][694]LogInit: FAudioDevice initialized.
+[2017.12.18-17.50.36:256][694]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.18-17.50.36:258][694]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.18-12.50.36
+[2017.12.18-17.50.36:258][694]LogWorld: Bringing up level for play took: 0.001804
+[2017.12.18-17.50.36:259][694]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.02
+[2017.12.18-17.50.36:259][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.50.46:501][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.50.46:531][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.52.02:735][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Lilith_AttackV1_11.SkeletalMeshComponent0'
+[2017.12.18-17.52.02:735][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Lilith_AttackV2_14.SkeletalMeshComponent0'
+[2017.12.18-17.52.02:735][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Lilith_RunCycle_17.SkeletalMeshComponent0'
+[2017.12.18-17.52.02:736][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2017.12.18-17.52.02:736][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0'
+[2017.12.18-17.52.02:738][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2017.12.18-17.52.09:605][176]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:8680).
+[2017.12.18-17.52.38:738][132]LogSavePackage: Save=161.75ms
+[2017.12.18-17.52.38:738][132]LogSavePackage: Moving 'E:/Unreal Projects/IS2171 4.18/Saved/ThirdPersonExampleMap_Auto11474708E4CEF51E42F8169B28F407DD3.tmp' to 'E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.12.18-17.52.38:739][132]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.12.18-17.52.38:744][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.343
+[2017.12.18-17.52.38:744][132]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.343
+[2017.12.18-17.52.38:746][132]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.18-17.52.38:757][132]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.18-17.52.38:757][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.12.18-17.52.39:124][132]LogSavePackage: Save=176.77ms
+[2017.12.18-17.52.39:124][132]LogSavePackage: Moving 'E:/Unreal Projects/IS2171 4.18/Saved/ThirdPersonCharacter_Auto1C0B4EA2B4211608D189FAFB8536ACF6D.tmp' to 'E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2017.12.18-17.52.39:125][132]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2017.12.18-17.52.39:127][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Lilith/Lilith_PhysicsAsset] ([1] browsable assets)...
+[2017.12.18-17.52.39:127][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Lilith/Lilith_PhysicsAsset]
+[2017.12.18-17.52.39:176][132]LogSavePackage: Save=8.79ms
+[2017.12.18-17.52.39:176][132]LogSavePackage: Moving 'E:/Unreal Projects/IS2171 4.18/Saved/Lilith_PhysicsAsset_Auto11893CF6B4138E967DB97258900503281.tmp' to 'E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/Models/Lilith/Lilith_PhysicsAsset_Auto1.uasset'
+[2017.12.18-17.52.39:177][132]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/Models/Lilith/Lilith_PhysicsAsset_Auto1.uasset
+[2017.12.18-17.52.39:178][132]LogFileHelpers: Auto-saving content packages took 0.433
+[2017.12.18-17.53.03:561][579]Cmd: TRANSACTION UNDO
+[2017.12.18-17.53.03:561][579]LogEditorTransaction: Undo Move Element
+[2017.12.18-17.53.03:663][579]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.53.07:420][899]Cmd: TRANSACTION UNDO
+[2017.12.18-17.53.07:420][899]LogEditorTransaction: Undo Move Element
+[2017.12.18-17.53.07:522][899]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.53.15:413][673]Cmd: TRANSACTION UNDO
+[2017.12.18-17.53.15:413][673]LogEditorTransaction: Undo Add New Bodies
+[2017.12.18-17.53.15:421][673]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2017.12.18-17.53.15:490][673]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.53.15:490][673]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2017.12.18-17.53.47:392][103]Cmd: TRANSACTION UNDO
+[2017.12.18-17.53.47:392][103]LogEditorTransaction: Undo Move Element
+[2017.12.18-17.53.47:493][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.54.47:640][910]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2017.12.18-17.54.47:642][910]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2017.12.18-17.55.11:838][302]Cmd: TRANSACTION UNDO
+[2017.12.18-17.55.11:838][302]LogEditorTransaction: Undo Move Element
+[2017.12.18-17.55.11:965][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.57.44:119][815]Cmd: TRANSACTION UNDO
+[2017.12.18-17.57.44:119][815]LogEditorTransaction: Undo Edit Physics Type
+[2017.12.18-17.57.44:205][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.57.46:522][ 25]Cmd: TRANSACTION UNDO
+[2017.12.18-17.57.46:522][ 25]LogEditorTransaction: Undo Edit Physics Type
+[2017.12.18-17.57.46:611][ 25]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.57.47:231][ 84]Cmd: TRANSACTION UNDO
+[2017.12.18-17.57.47:231][ 84]LogEditorTransaction: Undo Edit Physics Type
+[2017.12.18-17.57.47:323][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.57.51:742][534]Cmd: TRANSACTION UNDO
+[2017.12.18-17.57.51:742][534]LogEditorTransaction: Undo Edit Physics Type
+[2017.12.18-17.57.51:832][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.57.52:282][571]Cmd: TRANSACTION UNDO
+[2017.12.18-17.57.52:282][571]LogEditorTransaction: Undo Add New Bodies
+[2017.12.18-17.57.52:361][571]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.57.52:981][642]Cmd: TRANSACTION UNDO
+[2017.12.18-17.57.52:981][642]LogEditorTransaction: Undo Add New Bodies
+[2017.12.18-17.57.53:061][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.57.54:237][779]Cmd: TRANSACTION UNDO
+[2017.12.18-17.57.54:237][779]LogEditorTransaction: Undo Edit Physics Type
+[2017.12.18-17.57.54:314][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-17.58.15:343][744]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.18-17.58.15:352][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.58.15:353][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.18-17.58.15:353][744]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 18, 2017, 7:58:15 AM)
+[2017.12.18-17.58.15:353][744]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.18-17.58.15:364][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011282s)
+[2017.12.18-17.58.15:365][744]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.18-17.58.15:365][744]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2017.12.18-17.58.15:365][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012326s)
+[2017.12.18-17.58.15:380][744]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.18-17.58.15:384][744]LogInit: FAudioDevice initialized.
+[2017.12.18-17.58.15:411][744]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.18-17.58.15:413][744]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.18-12.58.15
+[2017.12.18-17.58.15:413][744]LogWorld: Bringing up level for play took: 0.001885
+[2017.12.18-17.58.15:414][744]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.865
+[2017.12.18-17.58.15:414][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.58.20:683][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-17.58.20:711][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.18-18.02.45:012][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2017.12.18-18.02.45:013][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Lilith/Lilith_PhysicsAsset] ([1] browsable assets)...
+[2017.12.18-18.02.45:021][655]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Models/Lilith/Lilith_PhysicsAsset.Lilith_PhysicsAsset]
+[2017.12.18-18.02.45:021][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Lilith/Lilith_PhysicsAsset]
+[2017.12.18-18.02.45:407][655]LogSavePackage: Save=17.70ms
+[2017.12.18-18.02.45:407][655]LogSavePackage: Moving 'E:/Unreal Projects/IS2171 4.18/Saved/Lilith_PhysicsAsset_Auto2BB882DF543D1879AF3E4E5A38F141BD6.tmp' to 'E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/Models/Lilith/Lilith_PhysicsAsset_Auto2.uasset'
+[2017.12.18-18.02.45:408][655]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/IS2171 4.18/Saved/Autosaves/Game/Models/Lilith/Lilith_PhysicsAsset_Auto2.uasset
+[2017.12.18-18.02.45:408][655]LogFileHelpers: Auto-saving content packages took 0.396
+[2017.12.18-18.02.58:818][968]Cmd: TRANSACTION UNDO
+[2017.12.18-18.02.58:818][968]LogEditorTransaction: Undo Add New Bodies
+[2017.12.18-18.02.58:892][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-18.04.04:642][642]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Maya 2017/Lilith/UnrealExports/Lilith.fbx)
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: Geometry, ItemCount : 408
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: Material, ItemCount : 14
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: Model, ItemCount : 818
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: NodeAttribute, ItemCount : 429
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: Texture, ItemCount : 17
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: AnimationCurveNode, ItemCount : 183
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: CollectionExclusive, ItemCount : 9
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: Pose, ItemCount : 18
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: Deformer, ItemCount : 369
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: AnimationCurve, ItemCount : 19
+[2017.12.18-18.04.04:680][642]LogFbx: ItemName: Video, ItemCount : 17
+[2017.12.18-18.04.04:687][642]LogFbx: Loading FBX Scene from E:/Maya 2017/Lilith/UnrealExports/Lilith.fbx
+[2017.12.18-18.04.04:917][642]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.18-18.04.13:399][642]LogFbx: Loading FBX Scene from E:/Maya 2017/Lilith/UnrealExports/Lilith.fbx
+[2017.12.18-18.04.13:624][642]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Floor] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Floor (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Floor]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Chains] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Chains (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Chains]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Body] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Body]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Head] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 2] Expressions (Type BlendShape).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Head (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Head]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [HairShell] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count 1575121472.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] HairShell (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [HairShell]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Hairs01] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Hairs01 (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Hairs01]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Hairs02] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Hairs02 (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Hairs02]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Hairs03] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Hairs03 (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Hairs03]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Hairs04] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Hairs04 (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Hairs04]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Hairs05] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Hairs05 (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Hairs05]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Hairs06] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Hairs06 (Type Mesh).
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node END [Hairs06]
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: Dumping Node START [Hairs07] 
+[2017.12.18-18.04.13:917][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:917][642]LogFbx: =================================================
+[2017.12.18-18.04.13:917][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:917][642]LogFbx: 		[Node Attribute Child 1] Hairs07 (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [Hairs07]
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node START [Hairs08] 
+[2017.12.18-18.04.13:918][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node Attribute Child 1] Hairs08 (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [Hairs08]
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node START [Hairs09] 
+[2017.12.18-18.04.13:918][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node Attribute Child 1] Hairs09 (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [Hairs09]
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node START [Hairs10] 
+[2017.12.18-18.04.13:918][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node Attribute Child 1] Hairs10 (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [Hairs10]
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node START [Hairs11] 
+[2017.12.18-18.04.13:918][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node Attribute Child 1] Hairs11 (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [Hairs11]
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node START [Hairs12] 
+[2017.12.18-18.04.13:918][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node Attribute Child 1] Hairs12 (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [Hairs12]
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node START [Hairs13] 
+[2017.12.18-18.04.13:918][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node Attribute Child 1] Hairs13 (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [Hairs13]
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node START [HeroHair] 
+[2017.12.18-18.04.13:918][642]LogFbx: 	Total Deformer Count -2049420000.
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:918][642]LogFbx: =================================================
+[2017.12.18-18.04.13:918][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:918][642]LogFbx: 		[Node Attribute Child 1] HeroHair (Type Mesh).
+[2017.12.18-18.04.13:918][642]LogFbx: Dumping Node END [HeroHair]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Floor] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Floor (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Floor]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Chains] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Chains (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Chains]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Body] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Body]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Head] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 2] Expressions (Type BlendShape).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Head (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Head]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [HairShell] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count 1576922816.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] HairShell (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [HairShell]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Hairs01] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Hairs01 (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Hairs01]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Hairs02] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Hairs02 (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Hairs02]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Hairs03] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Hairs03 (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Hairs03]
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node START [Hairs04] 
+[2017.12.18-18.04.13:919][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:919][642]LogFbx: =================================================
+[2017.12.18-18.04.13:919][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:919][642]LogFbx: 		[Node Attribute Child 1] Hairs04 (Type Mesh).
+[2017.12.18-18.04.13:919][642]LogFbx: Dumping Node END [Hairs04]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs05] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs05 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs05]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs06] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs06 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs06]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs07] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs07 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs07]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs08] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs08 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs08]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs09] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs09 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs09]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs10] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs10 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs10]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs11] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs11 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs11]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs12] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs12 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs12]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [Hairs13] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] Hairs13 (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [Hairs13]
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node START [HeroHair] 
+[2017.12.18-18.04.13:920][642]LogFbx: 	Total Deformer Count -2049418152.
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:920][642]LogFbx: =================================================
+[2017.12.18-18.04.13:920][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:920][642]LogFbx: 		[Node Attribute Child 1] HeroHair (Type Mesh).
+[2017.12.18-18.04.13:920][642]LogFbx: Dumping Node END [HeroHair]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [Chains] 
+[2017.12.18-18.04.13:921][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node Attribute Child 1] Chains (Type Mesh).
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node END [Chains]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [Body] 
+[2017.12.18-18.04.13:921][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node END [Body]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [Head] 
+[2017.12.18-18.04.13:921][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 2] Expressions (Type BlendShape).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node Attribute Child 1] Head (Type Mesh).
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node END [Head]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [HairShell] 
+[2017.12.18-18.04.13:921][642]LogFbx: 	Total Deformer Count 1576924608.
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node Attribute Child 1] HairShell (Type Mesh).
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node END [HairShell]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [Hairs01] 
+[2017.12.18-18.04.13:921][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node Attribute Child 1] Hairs01 (Type Mesh).
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node END [Hairs01]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [Hairs02] 
+[2017.12.18-18.04.13:921][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node Attribute Child 1] Hairs02 (Type Mesh).
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node END [Hairs02]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [Hairs03] 
+[2017.12.18-18.04.13:921][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:921][642]LogFbx: 		[Node Attribute Child 1] Hairs03 (Type Mesh).
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node END [Hairs03]
+[2017.12.18-18.04.13:921][642]LogFbx: =================================================
+[2017.12.18-18.04.13:921][642]LogFbx: Dumping Node START [Hairs04] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs04 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs04]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs05] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs05 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs05]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs06] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs06 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs06]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs07] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs07 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs07]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs08] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs08 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs08]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs09] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs09 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs09]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs10] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs10 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs10]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs11] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs11 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs11]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs12] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs12 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs12]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Hairs13] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Hairs13 (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Hairs13]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [HeroHair] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049415016.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] HeroHair (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [HeroHair]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Chains] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -2049413280.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Chains (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Chains]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Body] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Body]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node START [Head] 
+[2017.12.18-18.04.13:922][642]LogFbx: 	Total Deformer Count -1949227872.
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node 2] Expressions (Type BlendShape).
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:922][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:922][642]LogFbx: 		[Node Attribute Child 1] Head (Type Mesh).
+[2017.12.18-18.04.13:922][642]LogFbx: Dumping Node END [Head]
+[2017.12.18-18.04.13:922][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [HairShell] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count 1576348480.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] HairShell (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [HairShell]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs01] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs01 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs01]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs02] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs02 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs02]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs03] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs03 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs03]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs04] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs04 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs04]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs05] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs05 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs05]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs06] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs06 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs06]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs07] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs07 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs07]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs08] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs08 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs08]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs09] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs09 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs09]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs10] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs10 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs10]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs11] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs11 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs11]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs12] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs12 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs12]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [Hairs13] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node Attribute Child 1] Hairs13 (Type Mesh).
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node END [Hairs13]
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: Dumping Node START [HeroHair] 
+[2017.12.18-18.04.13:923][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:923][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:923][642]LogFbx: =================================================
+[2017.12.18-18.04.13:923][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] HeroHair (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [HeroHair]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [HairShell] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count 1576338752.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] HairShell (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [HairShell]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs01] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs01 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs01]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs02] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs02 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs02]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs03] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs03 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs03]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs04] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs04 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs04]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs05] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs05 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs05]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs06] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs06 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs06]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs07] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs07 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs07]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs08] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs08 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs08]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs09] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs09 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs09]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs10] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs10 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs10]
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node START [Hairs11] 
+[2017.12.18-18.04.13:924][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:924][642]LogFbx: =================================================
+[2017.12.18-18.04.13:924][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:924][642]LogFbx: 		[Node Attribute Child 1] Hairs11 (Type Mesh).
+[2017.12.18-18.04.13:924][642]LogFbx: Dumping Node END [Hairs11]
+[2017.12.18-18.04.13:925][642]LogFbx: =================================================
+[2017.12.18-18.04.13:925][642]LogFbx: Dumping Node START [Hairs12] 
+[2017.12.18-18.04.13:925][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:925][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:925][642]LogFbx: =================================================
+[2017.12.18-18.04.13:925][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:925][642]LogFbx: 		[Node Attribute Child 1] Hairs12 (Type Mesh).
+[2017.12.18-18.04.13:925][642]LogFbx: Dumping Node END [Hairs12]
+[2017.12.18-18.04.13:925][642]LogFbx: =================================================
+[2017.12.18-18.04.13:925][642]LogFbx: Dumping Node START [Hairs13] 
+[2017.12.18-18.04.13:925][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:925][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:925][642]LogFbx: =================================================
+[2017.12.18-18.04.13:925][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:925][642]LogFbx: 		[Node Attribute Child 1] Hairs13 (Type Mesh).
+[2017.12.18-18.04.13:925][642]LogFbx: Dumping Node END [Hairs13]
+[2017.12.18-18.04.13:925][642]LogFbx: =================================================
+[2017.12.18-18.04.13:925][642]LogFbx: Dumping Node START [HeroHair] 
+[2017.12.18-18.04.13:925][642]LogFbx: 	Total Deformer Count -2049419832.
+[2017.12.18-18.04.13:925][642]LogFbx: 		[Node 1]  (Type Skin).
+[2017.12.18-18.04.13:925][642]LogFbx: =================================================
+[2017.12.18-18.04.13:925][642]LogFbx: 	Attribute () Type (4).
+[2017.12.18-18.04.13:925][642]LogFbx: 		[Node Attribute Child 1] HeroHair (Type Mesh).
+[2017.12.18-18.04.13:925][642]LogFbx: Dumping Node END [HeroHair]
+[2017.12.18-18.04.13:936][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:937][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:938][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:939][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:940][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:941][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:942][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:943][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:944][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:945][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:946][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:947][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:947][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:948][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:949][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:950][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:951][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:952][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:952][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:952][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:953][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:953][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:953][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:953][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:953][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:954][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:954][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:954][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:954][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:954][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:955][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:955][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:955][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:955][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:955][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:956][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:957][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:958][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:959][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:959][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:959][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:959][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:959][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:959][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:959][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:960][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:961][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:961][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:961][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:961][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:961][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:961][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:961][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:962][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:962][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:962][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:962][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:962][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:962][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:962][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:963][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:963][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:963][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:963][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:963][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:963][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:963][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:964][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:964][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:964][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:964][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:964][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:964][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:964][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:965][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:965][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:965][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:965][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:965][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:965][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:965][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:966][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:967][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:967][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:967][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:967][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:967][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:967][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:967][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:968][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:968][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:968][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:968][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:968][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:968][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:968][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:969][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:969][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:969][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:969][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:969][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:969][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:969][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:970][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:970][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:970][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:970][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:970][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:970][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:970][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:971][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:971][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:971][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:971][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:971][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster9) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:971][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:971][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:972][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:973][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:973][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:973][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:973][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:973][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:973][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:973][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:974][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster10) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:974][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:974][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:974][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:974][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:974][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:974][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:975][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:975][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:975][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:975][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:975][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:975][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:975][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:976][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:976][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:976][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:976][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:976][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster11) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:976][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:976][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:977][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:978][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster12) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:979][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:979][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:979][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:979][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:979][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:979][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:979][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:980][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:980][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:980][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:980][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:980][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:980][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:980][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:981][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:981][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:981][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:981][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster13) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:981][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:981][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:981][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:982][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:982][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:982][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:982][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:982][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:982][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:982][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:983][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster14) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:984][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:984][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:984][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:984][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:984][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:984][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:984][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:985][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:986][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:986][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:986][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster15) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:986][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:986][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:986][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:986][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:987][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:987][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:987][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:987][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:987][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:987][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:987][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:988][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:988][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:988][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:988][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:988][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:988][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:988][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster16) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:989][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:989][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:989][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:989][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:989][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:989][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:989][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:990][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster17) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Chains : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Body : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Head : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node HairShell : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs01 : The relative matrices do not match
+[2017.12.18-18.04.13:991][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs02 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs03 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs04 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs05 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs06 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs07 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs08 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs09 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs10 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs11 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs12 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node Hairs13 : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Not valid bind pose for Pose (skinCluster18) - Node HeroHair : The relative matrices do not match
+[2017.12.18-18.04.13:992][642]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2017.12.18-18.04.14:000][642]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Chains
+[2017.12.18-18.04.14:000][642]LogFbx: Warning: Recreating bind pose succeeded.
+[2017.12.18-18.04.14:005][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Metal'
+[2017.12.18-18.04.14:005][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Metal'
+[2017.12.18-18.04.14:005][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Metal.M_Metal needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.14:007][642]LogMaterial: Missing cached shader map for material M_Metal, compiling. 
+[2017.12.18-18.04.14:084][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Metal_albedo'
+[2017.12.18-18.04.14:085][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Metal_albedo'
+[2017.12.18-18.04.14:457][642]LogTexture: Display: Building textures: Metal_albedo (AutoDXT, 2048X2048)
+[2017.12.18-18.04.16:990][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Metal_normal'
+[2017.12.18-18.04.16:990][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Metal_normal'
+[2017.12.18-18.04.17:258][642]LogTexture: Display: Building textures: Metal_normal (BC5, 2048X2048)
+[2017.12.18-18.04.17:635][642]LogMaterial: Missing cached shader map for material M_Metal, compiling. 
+[2017.12.18-18.04.17:686][642]LogFbx: Triangulating skeletal mesh Chains
+[2017.12.18-18.04.17:710][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Skin'
+[2017.12.18-18.04.17:710][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Skin'
+[2017.12.18-18.04.17:710][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Skin.M_Skin needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.17:713][642]LogMaterial: Missing cached shader map for material M_Skin, compiling. 
+[2017.12.18-18.04.17:793][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Skin_albedo'
+[2017.12.18-18.04.17:793][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Skin_albedo'
+[2017.12.18-18.04.18:071][642]LogTexture: Display: Building textures: Skin_albedo (AutoDXT, 2048X2048)
+[2017.12.18-18.04.18:809][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Skin_normal'
+[2017.12.18-18.04.18:809][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Skin_normal'
+[2017.12.18-18.04.19:103][642]LogTexture: Display: Building textures: Skin_normal (BC5, 2048X2048)
+[2017.12.18-18.04.19:456][642]LogMaterial: Missing cached shader map for material M_Skin, compiling. 
+[2017.12.18-18.04.19:514][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Bone'
+[2017.12.18-18.04.19:514][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Bone'
+[2017.12.18-18.04.19:515][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Bone.M_Bone needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.19:517][642]LogMaterial: Missing cached shader map for material M_Bone, compiling. 
+[2017.12.18-18.04.19:601][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Bone_albedo'
+[2017.12.18-18.04.19:601][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Bone_albedo'
+[2017.12.18-18.04.19:904][642]LogTexture: Display: Building textures: Bone_albedo (AutoDXT, 2048X2048)
+[2017.12.18-18.04.20:982][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Bone_normal'
+[2017.12.18-18.04.20:982][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Bone_normal'
+[2017.12.18-18.04.21:314][642]LogTexture: Display: Building textures: Bone_normal (BC5, 2048X2048)
+[2017.12.18-18.04.21:704][642]LogMaterial: Missing cached shader map for material M_Bone, compiling. 
+[2017.12.18-18.04.21:750][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Fur'
+[2017.12.18-18.04.21:750][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Fur'
+[2017.12.18-18.04.21:751][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Fur.M_Fur needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.21:754][642]LogMaterial: Missing cached shader map for material M_Fur, compiling. 
+[2017.12.18-18.04.21:868][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Fur_albedo'
+[2017.12.18-18.04.21:868][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Fur_albedo'
+[2017.12.18-18.04.22:190][642]LogTexture: Display: Building textures: Fur_albedo (AutoDXT, 2048X2048)
+[2017.12.18-18.04.23:697][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Fur_normal'
+[2017.12.18-18.04.23:697][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/Fur_normal'
+[2017.12.18-18.04.24:011][642]LogTexture: Display: Building textures: Fur_normal (BC5, 2048X2048)
+[2017.12.18-18.04.25:029][642]LogMaterial: Missing cached shader map for material M_Fur, compiling. 
+[2017.12.18-18.04.25:101][642]LogFbx: Triangulating skeletal mesh Body
+[2017.12.18-18.04.25:404][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Eye_L'
+[2017.12.18-18.04.25:404][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Eye_L'
+[2017.12.18-18.04.25:405][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Eye_L.M_Eye_L needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.25:407][642]LogMaterial: Missing cached shader map for material M_Eye_L, compiling. 
+[2017.12.18-18.04.25:613][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettEyeL'
+[2017.12.18-18.04.25:613][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettEyeL'
+[2017.12.18-18.04.25:651][642]LogTexture: Display: Building textures: TA_ScarlettEyeL (AutoDXT, 512X512)
+[2017.12.18-18.04.25:740][642]LogMaterial: Missing cached shader map for material M_Eye_L, compiling. 
+[2017.12.18-18.04.25:789][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Eye_R'
+[2017.12.18-18.04.25:790][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Eye_R'
+[2017.12.18-18.04.25:790][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Eye_R.M_Eye_R needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.25:793][642]LogMaterial: Missing cached shader map for material M_Eye_R, compiling. 
+[2017.12.18-18.04.25:878][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettEyeR'
+[2017.12.18-18.04.25:878][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettEyeR'
+[2017.12.18-18.04.25:906][642]LogTexture: Display: Building textures: TA_ScarlettEyeR (AutoDXT, 512X512)
+[2017.12.18-18.04.25:995][642]LogMaterial: Missing cached shader map for material M_Eye_R, compiling. 
+[2017.12.18-18.04.26:045][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Head'
+[2017.12.18-18.04.26:045][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Head'
+[2017.12.18-18.04.26:046][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Head.M_Head needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.26:050][642]LogMaterial: Missing cached shader map for material M_Head, compiling. 
+[2017.12.18-18.04.26:131][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettSkin'
+[2017.12.18-18.04.26:131][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettSkin'
+[2017.12.18-18.04.26:164][642]LogTexture: Display: Building textures: TA_ScarlettSkin (AutoDXT, 512X512)
+[2017.12.18-18.04.26:260][642]LogMaterial: Missing cached shader map for material M_Head, compiling. 
+[2017.12.18-18.04.26:306][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Sock'
+[2017.12.18-18.04.26:307][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Sock'
+[2017.12.18-18.04.26:307][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Sock.M_Sock needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.26:310][642]LogMaterial: Missing cached shader map for material M_Sock, compiling. 
+[2017.12.18-18.04.26:396][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettSock'
+[2017.12.18-18.04.26:396][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettSock'
+[2017.12.18-18.04.26:420][642]LogTexture: Display: Building textures: TA_ScarlettSock (AutoDXT, 128X128)
+[2017.12.18-18.04.26:469][642]LogMaterial: Missing cached shader map for material M_Sock, compiling. 
+[2017.12.18-18.04.26:522][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Teeth_D'
+[2017.12.18-18.04.26:522][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Teeth_D'
+[2017.12.18-18.04.26:523][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Teeth_D.M_Teeth_D needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.26:526][642]LogMaterial: Missing cached shader map for material M_Teeth_D, compiling. 
+[2017.12.18-18.04.26:617][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettTeethD'
+[2017.12.18-18.04.26:617][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettTeethD'
+[2017.12.18-18.04.26:649][642]LogTexture: Display: Building textures: TA_ScarlettTeethD (AutoDXT, 512X128)
+[2017.12.18-18.04.26:734][642]LogMaterial: Missing cached shader map for material M_Teeth_D, compiling. 
+[2017.12.18-18.04.26:778][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Teeth_U'
+[2017.12.18-18.04.26:778][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Teeth_U'
+[2017.12.18-18.04.26:779][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Teeth_U.M_Teeth_U needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.26:783][642]LogMaterial: Missing cached shader map for material M_Teeth_U, compiling. 
+[2017.12.18-18.04.26:858][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettTeethU'
+[2017.12.18-18.04.26:859][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettTeethU'
+[2017.12.18-18.04.26:884][642]LogTexture: Display: Building textures: TA_ScarlettTeethU (AutoDXT, 512X128)
+[2017.12.18-18.04.26:965][642]LogMaterial: Missing cached shader map for material M_Teeth_U, compiling. 
+[2017.12.18-18.04.27:013][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Tongue'
+[2017.12.18-18.04.27:013][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Tongue'
+[2017.12.18-18.04.27:014][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Tongue.M_Tongue needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.27:017][642]LogMaterial: Missing cached shader map for material M_Tongue, compiling. 
+[2017.12.18-18.04.27:102][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettTongue'
+[2017.12.18-18.04.27:102][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettTongue'
+[2017.12.18-18.04.27:102][642]LogFbxMaterialImport: Warning: Unable to find Texture file Z:/IGMProfile/Documents/maya/projects/3DAPV_P05_Spider/sourceimages/Head/TA_ScarlettTongue.png
+[2017.12.18-18.04.27:105][642]LogMaterial: Missing cached shader map for material M_Tongue, compiling. 
+[2017.12.18-18.04.27:159][642]LogFbx: Triangulating skeletal mesh Head
+[2017.12.18-18.04.27:364][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Hair'
+[2017.12.18-18.04.27:365][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_Hair'
+[2017.12.18-18.04.27:366][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_Hair.M_Hair needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.27:367][642]LogMaterial: Missing cached shader map for material M_Hair, compiling. 
+[2017.12.18-18.04.27:448][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettHairR'
+[2017.12.18-18.04.27:448][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_ScarlettHairR'
+[2017.12.18-18.04.27:484][642]LogTexture: Display: Building textures: TA_ScarlettHairR (AutoDXT, 512X512)
+[2017.12.18-18.04.27:691][642]LogTexture: Display: Building textures: TA_ScarlettHairR (AutoDXT, 512X512)
+[2017.12.18-18.04.27:835][642]LogMaterial: Missing cached shader map for material M_Hair, compiling. 
+[2017.12.18-18.04.27:908][642]LogFbx: Triangulating skeletal mesh HairShell
+[2017.12.18-18.04.27:922][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_HairBack'
+[2017.12.18-18.04.27:922][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/M_HairBack'
+[2017.12.18-18.04.27:923][642]LogMaterial: Warning: Material /Game/Models/Lilith/Small/M_HairBack.M_HairBack needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.18-18.04.27:925][642]LogMaterial: Missing cached shader map for material M_HairBack, compiling. 
+[2017.12.18-18.04.28:009][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_HairBangs'
+[2017.12.18-18.04.28:009][642]LogLinker: Can't find file '/Game/Models/Lilith/Small/TA_HairBangs'
+[2017.12.18-18.04.28:009][642]LogFbxMaterialImport: Warning: Unable to find Texture file Z:/IGMProfile/Documents/maya/projects/3DAPV_P05_Spider/sourceimages/HairTextures/TA_HairBangs.png
+[2017.12.18-18.04.28:009][642]LogFbxMaterialImport: Warning: Unable to find Texture file Z:/IGMProfile/Documents/maya/projects/3DAPV_P05_Spider/sourceimages/HairTextures/TA_HairBangs.png
+[2017.12.18-18.04.28:011][642]LogMaterial: Missing cached shader map for material M_HairBack, compiling. 
+[2017.12.18-18.04.28:062][642]LogFbx: Triangulating skeletal mesh Hairs01
+[2017.12.18-18.04.28:114][642]LogFbx: Triangulating skeletal mesh Hairs02
+[2017.12.18-18.04.28:173][642]LogFbx: Triangulating skeletal mesh Hairs03
+[2017.12.18-18.04.28:252][642]LogFbx: Triangulating skeletal mesh Hairs04
+[2017.12.18-18.04.28:342][642]LogFbx: Triangulating skeletal mesh Hairs05
+[2017.12.18-18.04.28:418][642]LogFbx: Triangulating skeletal mesh Hairs06
+[2017.12.18-18.04.28:495][642]LogFbx: Triangulating skeletal mesh Hairs07
+[2017.12.18-18.04.28:548][642]LogFbx: Triangulating skeletal mesh Hairs08
+[2017.12.18-18.04.28:597][642]LogFbx: Triangulating skeletal mesh Hairs09
+[2017.12.18-18.04.28:645][642]LogFbx: Triangulating skeletal mesh Hairs10
+[2017.12.18-18.04.28:685][642]LogFbx: Triangulating skeletal mesh Hairs11
+[2017.12.18-18.04.28:714][642]LogFbx: Triangulating skeletal mesh Hairs12
+[2017.12.18-18.04.28:745][642]LogFbx: Triangulating skeletal mesh Hairs13
+[2017.12.18-18.04.28:773][642]LogFbx: Triangulating skeletal mesh HeroHair
+[2017.12.18-18.04.28:884][642]LogFbx: Warning: Bones digested - 146  Depth of hierarchy - 16
+[2017.12.18-18.04.30:190][642]LogSkeletalMesh: Section 0: 3253 vertices, 20 active bones
+[2017.12.18-18.04.30:191][642]LogSkeletalMesh: Section 1: 2966 vertices, 76 active bones
+[2017.12.18-18.04.30:191][642]LogSkeletalMesh: Section 2: 836 vertices, 50 active bones
+[2017.12.18-18.04.30:191][642]LogSkeletalMesh: Section 3: 8099 vertices, 59 active bones
+[2017.12.18-18.04.30:191][642]LogSkeletalMesh: Section 4: 171 vertices, 1 active bones
+[2017.12.18-18.04.30:191][642]LogSkeletalMesh: Section 5: 171 vertices, 1 active bones
+[2017.12.18-18.04.30:192][642]LogSkeletalMesh: Section 6: 5991 vertices, 3 active bones
+[2017.12.18-18.04.30:192][642]LogSkeletalMesh: Section 7: 45 vertices, 3 active bones
+[2017.12.18-18.04.30:192][642]LogSkeletalMesh: Section 8: 22 vertices, 3 active bones
+[2017.12.18-18.04.30:192][642]LogSkeletalMesh: Section 9: 22 vertices, 2 active bones
+[2017.12.18-18.04.30:192][642]LogSkeletalMesh: Section 10: 44 vertices, 2 active bones
+[2017.12.18-18.04.30:192][642]LogSkeletalMesh: Section 11: 501 vertices, 9 active bones
+[2017.12.18-18.04.30:195][642]LogSkeletalMesh: Section 12: 33710 vertices, 15 active bones
